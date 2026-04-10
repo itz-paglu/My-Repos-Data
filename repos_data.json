@@ -1,10 +1,10 @@
 {
   "itz-paglu/like-api": {
-    "status": "\u2705 109 tokens (100%)",
-    "last_run": "2026-04-10 11:49:29",
-    "last_success": 109,
-    "last_failed": 0,
-    "next_run": "2026-04-10 18:49:29",
+    "status": "\u2705 123 tokens (92%)",
+    "last_run": "2026-04-10 17:45:49",
+    "last_success": 123,
+    "last_failed": 10,
+    "next_run": "2026-04-11 00:45:49",
     "db_tokens_enabled": true
   },
   "itz-paglu/visit-api-by-paglu": {
