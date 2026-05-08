@@ -28,5 +28,13 @@
     "last_success": 304,
     "last_failed": 263,
     "db_tokens_enabled": true
+  },
+  "itz-paglu/premium-like-api-1": {
+    "status": "Added",
+    "last_run": "Never",
+    "next_run": "2026-05-08 16:39:52",
+    "last_success": 0,
+    "last_failed": 0,
+    "db_tokens_enabled": false
   }
 }
