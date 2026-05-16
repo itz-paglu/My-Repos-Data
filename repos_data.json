@@ -20,7 +20,7 @@
     "next_run": "2026-05-16 08:25:53",
     "last_success": 476,
     "last_failed": 20,
-    "db_tokens_enabled": true
+    "db_tokens_enabled": false
   },
   "itz-paglu/premium-like-api-1": {
     "status": "\u2705 287 tokens (93%)",
