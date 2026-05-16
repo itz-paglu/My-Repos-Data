@@ -28,6 +28,6 @@
     "next_run": "2026-05-16 23:35:29",
     "last_success": 293,
     "last_failed": 20,
-    "db_tokens_enabled": true
+    "db_tokens_enabled": false
   }
 }
