@@ -15,10 +15,10 @@
     "last_failed": 0
   },
   "itz-paglu/premium-like-api": {
-    "status": "\u2705 592 tokens (94%)",
-    "last_run": "2026-06-23 02:57:13",
-    "next_run": "2026-06-23 09:57:13",
-    "last_success": 592,
+    "status": "\u2705 595 tokens (94%)",
+    "last_run": "2026-06-23 10:04:55",
+    "next_run": "2026-06-23 17:04:55",
+    "last_success": 595,
     "last_failed": 38,
     "db_tokens_enabled": true
   },
