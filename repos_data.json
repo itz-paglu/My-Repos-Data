@@ -56,8 +56,8 @@
   },
   "itz-paglu/Paid-Like-API": {
     "status": "\u2705 434 tokens (100%)",
-    "last_run": "2026-07-18 11:03:16",
-    "next_run": "2026-07-18 18:03:16",
+    "last_run": "2026-07-18 18:05:15",
+    "next_run": "2026-07-19 01:05:15",
     "last_success": 434,
     "last_failed": 0,
     "db_tokens_enabled": false,
