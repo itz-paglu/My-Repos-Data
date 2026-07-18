@@ -5,14 +5,18 @@
     "last_success": 76,
     "last_failed": 0,
     "next_run": "2026-07-18 04:41:15",
-    "db_tokens_enabled": false
+    "db_tokens_enabled": false,
+    "uidpass_files": [],
+    "db_token_mapping": {}
   },
   "itz-paglu/spam-API-": {
     "status": "\u2705 310 tokens (100%)",
     "last_run": "2026-07-17 21:50:32",
     "next_run": "2026-07-18 04:50:32",
     "last_success": 310,
-    "last_failed": 0
+    "last_failed": 0,
+    "uidpass_files": [],
+    "db_token_mapping": {}
   },
   "itz-paglu/premium-like-api": {
     "status": "\u2705 539 tokens (84%)",
@@ -20,7 +24,9 @@
     "next_run": "2026-07-18 09:22:08",
     "last_success": 539,
     "last_failed": 103,
-    "db_tokens_enabled": true
+    "db_tokens_enabled": true,
+    "uidpass_files": [],
+    "db_token_mapping": {}
   },
   "itz-paglu/visit-api-pro": {
     "status": "\u2705 556 tokens (100%)",
@@ -28,6 +34,18 @@
     "next_run": "2026-07-18 05:06:39",
     "last_success": 556,
     "last_failed": 0,
-    "db_tokens_enabled": false
+    "db_tokens_enabled": false,
+    "uidpass_files": [],
+    "db_token_mapping": {}
+  },
+  "itz-paglu/Paid-Like-API": {
+    "status": "Added",
+    "last_run": "Never",
+    "next_run": "2026-07-18 03:53:06",
+    "last_success": 0,
+    "last_failed": 0,
+    "db_tokens_enabled": false,
+    "uidpass_files": [],
+    "db_token_mapping": {}
   }
 }
