@@ -43,7 +43,11 @@
     "last_success": 556,
     "last_failed": 0,
     "db_tokens_enabled": false,
-    "uidpass_files": [],
+    "uidpass_files": [
+      "bd",
+      "br",
+      "ind"
+    ],
     "db_token_mapping": {}
   },
   "itz-paglu/Paid-Like-API": {
