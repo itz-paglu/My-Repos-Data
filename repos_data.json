@@ -19,7 +19,11 @@
     "next_run": "2026-07-18 04:50:32",
     "last_success": 310,
     "last_failed": 0,
-    "uidpass_files": [],
+    "uidpass_files": [
+      "bd",
+      "br",
+      "ind"
+    ],
     "db_token_mapping": {}
   },
   "itz-paglu/premium-like-api": {
