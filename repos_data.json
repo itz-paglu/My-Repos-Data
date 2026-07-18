@@ -33,7 +33,11 @@
     "last_success": 539,
     "last_failed": 103,
     "db_tokens_enabled": true,
-    "uidpass_files": [],
+    "uidpass_files": [
+      "bd",
+      "br",
+      "ind"
+    ],
     "db_token_mapping": {}
   },
   "itz-paglu/visit-api-pro": {
