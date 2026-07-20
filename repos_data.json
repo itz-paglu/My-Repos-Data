@@ -53,15 +53,5 @@
       "ind"
     ],
     "db_token_mapping": {}
-  },
-  "itz-paglu/Paid-Like-API": {
-    "status": "Added",
-    "last_run": "Never",
-    "next_run": "2026-07-20 09:18:56",
-    "last_success": 0,
-    "last_failed": 0,
-    "db_tokens_enabled": false,
-    "uidpass_files": [],
-    "db_token_mapping": {}
   }
 }
