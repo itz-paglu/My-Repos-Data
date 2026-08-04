@@ -27,11 +27,11 @@
     "db_token_mapping": {}
   },
   "itz-paglu/premium-like-api": {
-    "status": "\u2705 557 tokens (84%)",
-    "last_run": "2026-08-03 18:48:06",
-    "next_run": "2026-08-04 01:48:06",
-    "last_success": 557,
-    "last_failed": 108,
+    "status": "\u2705 556 tokens (83%)",
+    "last_run": "2026-08-04 02:02:54",
+    "next_run": "2026-08-04 09:02:54",
+    "last_success": 556,
+    "last_failed": 111,
     "db_tokens_enabled": true,
     "uidpass_files": [
       "bd",
