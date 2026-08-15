@@ -61,7 +61,11 @@
     "last_success": 0,
     "last_failed": 0,
     "db_tokens_enabled": false,
-    "uidpass_files": [],
+    "uidpass_files": [
+      "bd",
+      "br",
+      "ind"
+    ],
     "db_token_mapping": {}
   }
 }
