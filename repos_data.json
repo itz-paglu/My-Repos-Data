@@ -56,8 +56,8 @@
   },
   "itz-paglu/like-api-ad": {
     "status": "\u2705 107 tokens (100%)",
-    "last_run": "2026-08-21 16:07:07",
-    "next_run": "2026-08-21 23:07:07",
+    "last_run": "2026-08-21 23:16:49",
+    "next_run": "2026-08-22 06:16:49",
     "last_success": 107,
     "last_failed": 0,
     "db_tokens_enabled": false,
