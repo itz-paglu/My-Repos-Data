@@ -18,7 +18,7 @@
     "next_run": "2026-09-16 13:09:25",
     "last_success": 537,
     "last_failed": 212,
-    "db_tokens_enabled": true,
+    "db_tokens_enabled": false,
     "uidpass_files": [
       "bd",
       "br",
