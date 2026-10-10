@@ -1,10 +1,10 @@
 {
   "itz-paglu/premium-like-api": {
-    "status": "\u2705 621 tokens (68%)",
-    "last_run": "2026-10-09 21:58:26",
-    "next_run": "2026-10-10 04:58:26",
-    "last_success": 621,
-    "last_failed": 289,
+    "status": "\u2705 616 tokens (67%)",
+    "last_run": "2026-10-10 05:11:28",
+    "next_run": "2026-10-10 12:11:28",
+    "last_success": 616,
+    "last_failed": 299,
     "db_tokens_enabled": true,
     "uidpass_files": [
       "bd",
